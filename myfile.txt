@@ -3,10 +3,3 @@ this is my first tree
 this is my second tree
 
 this is my third tree
-
-this is my fifth tree
-
-this is my sixth tree
-
-this is my seventh tree
-
